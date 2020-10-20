@@ -20,7 +20,7 @@ This program can merge your pictures into a large one vertically. But sometimes 
   
   ![image](https://github.com/keygoman/Merge-Pictures/blob/master/running_code.png)
   ![image](https://github.com/keygoman/Merge-Pictures/blob/master/file_after1.png)
-  ![image](https://github.com/keygoman/Merge-Pictures/blob/master/Merge.png)
+  ![image](https://github.com/keygoman/Merge-Pictures/blob/master/Merge.jpg)
  
  # 合并图片
  这个程序能够纵向合并图片，但是有时候会失败报错
@@ -44,4 +44,4 @@ This program can merge your pictures into a large one vertically. But sometimes 
    
    ![image](https://github.com/keygoman/Merge-Pictures/blob/master/running_code.png)
    ![image](https://github.com/keygoman/Merge-Pictures/blob/master/file_after1.png)
-   ![image](https://github.com/keygoman/Merge-Pictures/blob/master/Merge.png)
+   ![image](https://github.com/keygoman/Merge-Pictures/blob/master/Merge.jpg)
