@@ -5,6 +5,7 @@ import glob
 
 picture_path = './origin/*'
 pic_list = glob.glob(picture_path) #用glob方法获取要合并的图片的集合
+pic_list.sort(key=lambda x: int(x[9:-4])) #sort方法用来排序,原本的排序方式并非想要的
 output = cv2.imread(pic_list.pop(0)) #pop方法返回第一张图片的地址，接着用imread方法获取
 print(output.shape)
 # index = 0
